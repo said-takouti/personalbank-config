@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to PersonalBank loans related QA APIs "
+  contactDetails:
+    name: "Anis Taleb - QA Lead"
+    email: "anis.taleb@gmail.com"
+  onCallSupport:
+    -(0033) 154893274

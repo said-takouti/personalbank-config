@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to PersonalBank accounts related local APIs "
+  contactDetails:
+    name: "Mohamed Said TAKOUTI - Developer"
+    email: "takouti.mohamed@gmail.com"
+  onCallSupport:
+    -(0033) 751525376

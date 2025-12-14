@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to PersonalBank cards related QA APIs "
+  contactDetails:
+    name: "Anis Taleb - QA Lead"
+    email: "anis.taleb@gmail.com"
+  onCallSupport:
+    -(0033) 154893274
