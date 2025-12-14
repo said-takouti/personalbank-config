@@ -2,9 +2,10 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to PersonalBank loans related Prod APIs "
+  message: "Welcome to PersonalBank loans related production APIs "
   contactDetails:
     name: "Khaoula KARAOUD- Product Owner"
     email: "khaoula.karaoud@gmail.com"
   onCallSupport:
     -(0033) 611980545
+
