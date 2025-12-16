@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to PersonalBank accounts related local APIs "
+  message: "Welcome to PersonalBank accounts related to local APIs "
   contactDetails:
     name: "Mohamed Said TAKOUTI - Developer"
     email: "{cipher}12ef0e7b2a24ae4efde6e55e7a98d2c788420c20919875ad099ba51f4c0b4c5d3f3e6cb430b52bb12c99ffbb249c66eb"
