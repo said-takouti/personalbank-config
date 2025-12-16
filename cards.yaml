@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to PersonalBank cards related local APIs "
+  message: "Welcome to PersonalBank cards related to local APIs "
   contactDetails:
     name: "Mohamed Said TAKOUTI - Developer"
     email: "takouti.mohamed@gmail.com"
