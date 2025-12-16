@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to PersonalBank accounts related prod APIs "
+  message: "Welcome to PersonalBank accounts related prodf APIs "
   contactDetails:
     name: "Khaoula KARAOUD- Product Owner"
     email: "khaoula.karaoud@gmail.com"
