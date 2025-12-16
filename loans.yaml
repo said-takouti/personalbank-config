@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to PersonalBank loans related local APIs "
+  message: "Welcome to PersonalBank loans related to local APIs "
   contactDetails:
     name: "Mohamed Said TAKOUTI - Developer"
     email: "takouti.mohamed@gmail.com"
